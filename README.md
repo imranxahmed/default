@@ -1,2 +1,2 @@
-# Programming Python C 
-These collections r to share things I work on and perhaps you will find useful topics, concepts and examples.
+# Programming Python
+This is a collections of python concepts, topics and examples, I work on and find useful. Hope you will use this as reference.
